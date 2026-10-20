@@ -1,0 +1,11 @@
+{
+  "usernames": [
+    "@netflixtechblog",
+    "@AirbnbEng"
+  ],
+  "maxArticlesPerUser": 5,
+  "includeContent": false,
+  "proxyConfiguration": {
+    "useApifyProxy": true
+  }
+}
